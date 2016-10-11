@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\EksamensForberedelse\BinærSøgetræ\BinærSøgetræ\bin\Debug\BinærSøgetræ.exe.config
+C:\Users\David\Desktop\EksamensForberedelse\BinærSøgetræ\BinærSøgetræ\bin\Debug\BinærSøgetræ.exe
+C:\Users\David\Desktop\EksamensForberedelse\BinærSøgetræ\BinærSøgetræ\bin\Debug\BinærSøgetræ.pdb
+C:\Users\David\Desktop\EksamensForberedelse\BinærSøgetræ\BinærSøgetræ\obj\Debug\BinærSøgetræ.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\EksamensForberedelse\BinærSøgetræ\BinærSøgetræ\obj\Debug\BinærSøgetræ.exe
+C:\Users\David\Desktop\EksamensForberedelse\BinærSøgetræ\BinærSøgetræ\obj\Debug\BinærSøgetræ.pdb
